@@ -1,5 +1,4 @@
-# MSLAN
-MSLAN -TGRS 2022
+# MSLAN -TGRS 2022
 The codes for MSLAN: A Two-Branch Multidirectional Spectral-Spatial LSTM Attention Network for Hyperspectral Image Classification.
 
 
